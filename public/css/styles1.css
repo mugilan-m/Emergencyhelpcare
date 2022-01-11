@@ -1,0 +1,10 @@
+
+
+.btn-google
+{
+    color:whitesmoke;
+    background-color: blueviolet;
+}
+.btn-google.hover{
+background-color: red;
+}
